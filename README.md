@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack Web Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/amitchandradas2004" alt="https://github.com/amitchandradas2004" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/amitchandradas2004" alt="https://github.com/amitchandradas2004" /></a> </p> -->
 
 - 🌱 I'm currently learning **JavaScript**
 
