@@ -13,7 +13,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 I love turning ideas into reality through code
-- 🎯 2024 Goals: Contribute more to open source and master new frameworks
+- 🎯 2026 Goals: Contribute more to open source and master new frameworks
 - ⚡ Fun fact: I debug code faster with coffee ☕
 
 ## 🛠️ Tech Stack
@@ -44,6 +44,8 @@ I'm a passionate developer who loves building innovative solutions and learning 
 <div align="center">
   
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitchandradas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitchandradas2004&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=tokyonight&hide_border=true)
 
