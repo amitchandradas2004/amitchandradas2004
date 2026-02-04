@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **amitcdas792@gmail.com**
+- 📫 How to reach me **Email: amitcdas792@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving problems more than writing code.**
 
