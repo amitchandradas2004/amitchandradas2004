@@ -43,9 +43,9 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 <div align="center">
   
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitchandradas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![AMIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitchandradas2004&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitchandradas2004&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=tokyonight&hide_border=true)
 
