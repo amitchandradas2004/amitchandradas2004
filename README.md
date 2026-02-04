@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+- 🔭 I'm currently working on exciting projects
+  
+- 🌱 I'm constantly learning and exploring new technologies
+  
+- 💡 I love turning ideas into reality through code
  
- 🌱 I’m currently learning **JavaScript**
+- 🎯 2026 Goals: Contribute more to open source and master new frameworks
 
-💬 Ask me about **Web Development(https://github.com/amitchandradas2004/amitchandradas2004/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- ⚡ Fun fact: I debug code faster with coffee ☕
 
  </div>
  
