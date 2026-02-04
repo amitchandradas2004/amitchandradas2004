@@ -15,11 +15,14 @@
 
 <div align="center">
   ## 🚀 About Me I'm a passionate developer who loves building innovative
-solutions and learning new technologies. I believe in writing clean code,
-solving complex problems, and contributing to the open-source community. - 🔭
-I'm currently working on exciting projects - 🌱 I'm constantly learning and
-exploring new technologies - 💡 I love turning ideas into reality through code -
-🎯 2026 Goals: Contribute more to open source and master new frameworks - ⚡ Fun
+ solutions and learning new technologies. 
+  -I believe in writing clean code,
+solving complex problems, and contributing to the open-source community.
+  - 🔭I'm currently working on exciting projects - 🌱 I'm constantly learning and
+exploring new technologies 
+  - 💡 I love turning ideas into reality through code
+  -🎯 2026 Goals: Contribute more to open source and master new frameworks 
+  - ⚡ Fun
 fact: I debug code faster with coffee ☕
 </div>
 
