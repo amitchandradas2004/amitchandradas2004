@@ -38,8 +38,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -57,7 +55,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=amitchandradas2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+/*[trophy](https://github-profile-trophy.vercel.app/?username=amitchandradas2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)*/
 
 </div>
 
@@ -68,6 +66,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ## 🔥 Recent Projects
 
 Here are some of my recent projects that I'm proud of:
+Currently learning and exploring new projects and technologies.
 
 <!-- Add your projects here manually, for example:
 - **[Project Name](link)** - Brief description of what it does
@@ -78,11 +77,11 @@ Here are some of my recent projects that I'm proud of:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amit-chandra-das-35888929b/))
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitcdas792@gmail.com)
 
 </div>
 
