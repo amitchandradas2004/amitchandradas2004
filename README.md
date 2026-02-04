@@ -50,11 +50,11 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/output/github-contribution-grid-snake.svg" />
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <br/><br/><br/>
 </div>
     
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
-  <br/><br/><br/>
+ 
 </div>
 
 <hr/>
