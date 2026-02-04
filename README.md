@@ -100,7 +100,7 @@ Currently learning and exploring new projects and technologies.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=amitchandradas2004&for-the-badge=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=amitchandradas2004&blueviolet=PROFILE+VIEWS)
 
 **Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ the ones you like!**
 
