@@ -57,7 +57,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 <div align="center">
   
-/*[trophy](https://github-profile-trophy.vercel.app/?username=amitchandradas2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+  [trophy](https://github-profile-trophy.vercel.app/?username=amitchandradas2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
