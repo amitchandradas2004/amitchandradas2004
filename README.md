@@ -15,7 +15,9 @@
 
 <div align="center">
  
-  ### 🚀 About Me I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+  ## 🚀 About Me
+
+##### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
   
 #####  I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
