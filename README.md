@@ -9,18 +9,25 @@
   />
 </h1>
 
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh </h3>
+# <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh </h3>
 
 <br />
 
 <div align="center">
-  ## 
-  -🚀 About Me I'm a passionate developer who loves building innovative solutions and learning new technologies. 
-  -I believe in writing clean code,solving complex problems, and contributing to the open-source community.
-  - 🔭I'm currently working on exciting projects - 🌱 I'm constantly learning andexploring new technologies 
-  - 💡 I love turning ideas into reality through code
-  -🎯 2026 Goals: Contribute more to open source and master new frameworks 
-  - ⚡ Fun fact: I debug code faster with coffee ☕
+ 
+  ### -🚀 About Me I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+  
+##### -I believe in writing clean code,solving complex problems, and contributing to the open-source community.
+
+##### - 🔭I'm currently working on exciting projects
+
+##### - 🌱 I'm constantly learning andexploring new technologies 
+
+##### - 💡 I love turning ideas into reality through code
+
+##### -🎯 2026 Goals: Contribute more to open source and master new frameworks 
+
+##### - ⚡ Fun fact: I debug code faster with coffee ☕
 </div>
 
 <div align="center">
@@ -45,7 +52,7 @@
 
 <hr />
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
   <img
@@ -59,7 +66,7 @@
 <br />
 <hr />
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br />
   <img
@@ -68,11 +75,11 @@
   />
 
   <br /><br /><br />
-</div>
+</div> -->
 
 <hr />
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align="center">
   <img
