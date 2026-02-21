@@ -15,20 +15,22 @@
 
 <div align="center">
  
-  ### -🚀 About Me I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+  ### 🚀 About Me I'm a passionate developer who loves building innovative solutions and learning new technologies. 
   
-##### -I believe in writing clean code,solving complex problems, and contributing to the open-source community.
+#####  I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
-##### - 🔭I'm currently working on exciting projects
+#####  🔭I'm currently working on exciting projects
 
-##### - 🌱 I'm constantly learning andexploring new technologies 
+#####  🌱 I'm constantly learning andexploring new technologies 
 
-##### - 💡 I love turning ideas into reality through code
+#####  💡 I love turning ideas into reality through code
 
-##### -🎯 2026 Goals: Contribute more to open source and master new frameworks 
+#####  🎯 2026 Goals: Contribute more to open source and master new frameworks 
 
-##### - ⚡ Fun fact: I debug code faster with coffee ☕
+##### ⚡ Fun fact: I debug code faster with coffee ☕
+
 </div>
+<br/>
 
 <div align="center">
   <a href="mailto:amitcdas792@gmail.com">
