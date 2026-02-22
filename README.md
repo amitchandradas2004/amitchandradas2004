@@ -18,6 +18,9 @@
   ## 🚀 About Me
 
 ### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+
+</div>
+<div align="center">
   
 #####  💡 I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
@@ -30,8 +33,9 @@
 #####  🎯 2026 Goals: Contribute more to open source and master new frameworks 
 
 ##### ⚡ Fun fact: I debug code faster with coffee ☕
-
 </div>
+
+
 <br/>
 <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
