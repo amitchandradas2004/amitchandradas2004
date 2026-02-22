@@ -17,9 +17,9 @@
  
   ## 🚀 About Me
 
-##### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
   
-#####  I believe in writing clean code,solving complex problems, and contributing to the open-source community.
+#####  💡 I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
 #####  🔭I'm currently working on exciting projects
 
@@ -46,7 +46,7 @@
       target="_blank"
     />
   </a>
-  <a href="https://amitchandradas2004.github.io" target="_blank">
+  <!-- <a href="https://amitchandradas2004.github.io" target="_blank"> -->
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
