@@ -116,7 +116,7 @@
   <br />
   
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=002c5c&title_color=c56a90&text_color=ffffff" 
     alt="Top Languages" 
     width="90%"
   />
@@ -131,7 +131,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false&border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=002c5c&&color=ffffff&line=c56a90&point=ffeb95&area=false&border-radius="15">
 </div>
 
 ---
