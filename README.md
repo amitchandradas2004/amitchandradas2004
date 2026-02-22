@@ -124,13 +124,10 @@
 </div>
 
 ---
-
-
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
 
 
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-
+---
