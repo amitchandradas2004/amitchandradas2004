@@ -60,7 +60,7 @@
 <br />
 <div align="center">
   <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
 <!-- <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
