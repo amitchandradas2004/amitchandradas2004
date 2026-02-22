@@ -92,16 +92,7 @@
 <br />
 <hr />
 
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br />
-  <img
-    alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/output/github-contribution-grid-snake.svg"
-  />
 
-  <br /><br /><br />
-</div> -->
 
 <hr />
 
@@ -114,6 +105,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
+<br/>
   <img
     width="450"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
@@ -123,11 +115,10 @@
   <br />
   <br />
   
-  <img
-    width="400"
-    align="center"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amitchandradas2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="top langs"
+  <img 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff" 
+    alt="Top Languages" 
+    height="200" 
   />
 </div>
 
