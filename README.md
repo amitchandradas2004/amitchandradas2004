@@ -107,8 +107,8 @@
 <br/>
 <br/>
   <img
-    width="90%"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    width="100%"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
   
