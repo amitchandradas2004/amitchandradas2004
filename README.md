@@ -9,7 +9,7 @@
   />
 </h1>
 
-# <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh </h3>
+# <h2 align="center">A passionate Full-Stack Web Developer from Bangladesh </h2>
 
 <br />
 
@@ -17,12 +17,12 @@
  
   ## 🚀 About Me
 
-### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
+### I'm a passionate developer who loves building <br/> innovative solutions and learning new technologies. 
 
 </div>
 <div align="center">
   
-#####  💡 I believe in writing clean code,solving complex problems, and contributing to the open-source community.
+#####  💡 I believe in writing clean code,solving complex problems, <br/>  and contributing to the open-source community.
 
 #####  🔭I'm currently working on exciting projects
 
@@ -106,20 +106,15 @@
     src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
-  
   <br />
-  
+  <br />
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff" 
     alt="Top Languages" 
     width="90%"
   />
 </div>
-
-<br /><br />
-
 <hr />
-
 <br />
 <br />
 <!--Contribution Graph-->
