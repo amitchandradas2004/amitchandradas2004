@@ -102,13 +102,13 @@
 
 <br />
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
 <br/>
   <img
-    width="100%"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff"
+    width="90%"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
   
@@ -116,9 +116,9 @@
   <br />
   
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff" 
     alt="Top Languages" 
-    width="100%"
+    width="90%"
   />
 </div>
 
@@ -131,7 +131,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false&border-radius="15">
 </div>
 
 ---
