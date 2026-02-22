@@ -46,7 +46,7 @@
       target="_blank"
     />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://amitchandradas2004.github.io" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
