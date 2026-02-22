@@ -20,7 +20,7 @@
 ### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
 
 </div>
-<div align="left">
+<div align="center">
   
 #####  💡 I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
@@ -86,13 +86,9 @@
 </p>
 
 <br />
-  <br />
 </div>
 
-<br />
 <hr />
-
-
 
 <hr />
 
@@ -105,14 +101,12 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius='15'&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
-<br/>
   <img
     width="90%"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
   
-  <br />
   <br />
   
   <img 
@@ -131,7 +125,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&border-radius='15'&area=false">
 </div>
 
 ---
