@@ -104,11 +104,12 @@
 ## <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align="center">
-  <img
-    width="390"
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amitchandradas2004&count_private=true&theme=react&border_radius=10"
-    alt="streak stats"
-  />
+
+<br />
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+<br/>
   <img
     width="390"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
