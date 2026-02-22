@@ -20,7 +20,7 @@
 ### I'm a passionate developer who loves building innovative solutions and learning new technologies. 
 
 </div>
-<div align="center">
+<div align="left">
   
 #####  💡 I believe in writing clean code,solving complex problems, and contributing to the open-source community.
 
