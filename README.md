@@ -15,24 +15,24 @@
 
 <div align="center">
  
-  ## 🚀 About Me
+# 🚀 About Me
 
 ### I'm a passionate developer who loves building <br/> innovative solutions and learning new technologies. 
 
 </div>
 <div align="center">
   
-#####  💡 I believe in writing clean code,solving complex problems, <br/>  and contributing to the open-source community.
+####  💡 I believe in writing clean code,solving complex problems, <br/>  and contributing to the open-source community.
 
-#####  🔭I'm currently working on exciting projects
+####  🔭I'm currently working on exciting projects
 
-#####  🌱 I'm constantly learning andexploring new technologies 
+####  🌱 I'm constantly learning andexploring new technologies 
 
-#####  💡 I love turning ideas into reality through code
+####  💡 I love turning ideas into reality through code
 
-#####  🎯 2026 Goals: Contribute more to open source and master new frameworks 
+####  🎯 2026 Goals: Contribute more to open source and master new frameworks 
 
-##### ⚡ Fun fact: I debug code faster with coffee ☕
+#### ⚡ Fun fact: I debug code faster with coffee ☕
 </div>
 
 
@@ -53,7 +53,6 @@
       target="_blank"
     />
   </a>
-  <!-- <a href="https://amitchandradas2004.github.io" target="_blank"> -->
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
@@ -62,34 +61,34 @@
 </div>
 
 <hr />
+<hr />
 
-### <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+## <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
   <p align="center">
 <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
-<img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
-<img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
+<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
 </p>
 <p align="center">
-<img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/> -->
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/> -->
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/> -->
+<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/> -->
 </p>
 <p align="center">
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/> -->
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/> -->
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/> -->
-<!-- <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/> -->
+<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/> -->
 </p>
 
 <br />
 </div>
 
 <hr />
-
 <hr />
 
 # <h1 align="center">⚡Current Stats ⚡</h1>
@@ -115,6 +114,7 @@
   />
 </div>
 <hr />
+<hr />
 <br />
 <br />
 <!--Contribution Graph-->
@@ -122,12 +122,16 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&border-radius='15'&area=false">
 </div>
-
 ---
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<hr />
+<hr />
+# <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 ---
+---
+<hr />
+<hr />
