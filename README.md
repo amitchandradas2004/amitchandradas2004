@@ -97,18 +97,22 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius=20&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
-  <img
+  <p align= "center">
+    <img
     width="90%"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
+  </p>
   <br />
   <br />
-  <img 
+    <p align= "center">
+<img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius=20text_color=ffffff" 
     alt="Top Languages" 
     width="90%"
   />
+    </p>
 </div>
 <hr />
 <hr />
