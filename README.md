@@ -107,7 +107,7 @@
   <br />
     <p align= "center">
 <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius=20text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius=15text_color=ffffff" 
     alt="Top Languages" 
     width="90%"
   />
