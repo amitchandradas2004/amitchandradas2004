@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&text_color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Chandra+Das!;"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&text_color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
   />
 </h1>
 
@@ -24,7 +24,7 @@
   
 ####  💡 I believe in writing clean code,solving complex problems, <br/>  and contributing to the open-source community.
 
-####  🔭I'm currently working on exciting projects
+####  🔭 I'm currently working on exciting projects
 
 ####  🌱 I'm constantly learning andexploring new technologies 
 
@@ -32,7 +32,7 @@
 
 ####  🎯 2026 Goals: Contribute more to open source and master new frameworks 
 
-#### ⚡ Fun fact: I debug code faster with coffee ☕
+####  ⚡ Fun fact: I debug code faster with coffee ☕
 </div>
 
 
@@ -47,27 +47,28 @@
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
     />
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/amit-chandra-das-35888929b" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"
     />
   </a>
-    <img
+    <br/> 
+  <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
     />
   </a>
 </div>
-
 <hr />
 <hr />
-
 ## <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br />
 <br />
 <div align="center">
   <p align="center">
-<img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
 <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
 <!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
 <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
@@ -84,17 +85,13 @@
 <!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/> -->
 <!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/> -->
 </p>
-
 <br />
 </div>
-
 <hr />
 <hr />
-
 # <h1 align="center">⚡Current Stats ⚡</h1>
 <br />
 <div align="center">
-
 <br />
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius='15'&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
@@ -106,7 +103,6 @@
     alt="readme stats"
   />
   <br />
-  <br />
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff" 
     alt="Top Languages" 
@@ -115,8 +111,6 @@
 </div>
 <hr />
 <hr />
-<br />
-<br />
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -131,7 +125,5 @@
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
----
----
 <hr />
 <hr />
