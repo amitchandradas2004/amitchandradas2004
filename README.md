@@ -34,11 +34,11 @@
 
 ####  ⚡ Fun fact: I debug code faster with coffee ☕
 </div>
-
-
 <br/>
-<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&border-radius='20'"/>
+<hr />
+<hr />
 
+ <h2 align="center">⚒️ Connect With Me ⚒️</h2>
 <br/>
 
 <div align="center">
@@ -47,14 +47,14 @@
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
     />
   </a>
-  <br/>
+
   <a href="https://www.linkedin.com/in/amit-chandra-das-35888929b" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"
     />
   </a>
-    <br/> 
+  
   <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
@@ -63,7 +63,7 @@
 </div>
 <hr />
 <hr />
-## <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <br />
 <div align="center">
@@ -89,7 +89,7 @@
 </div>
 <hr />
 <hr />
-# <h1 align="center">⚡Current Stats ⚡</h1>
+ <h1 align="center">⚡Current Stats ⚡</h1>
 <br />
 <div align="center">
 <br />
@@ -119,7 +119,7 @@
 ---
 <hr />
 <hr />
-# <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+ <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
 <p align="center">
