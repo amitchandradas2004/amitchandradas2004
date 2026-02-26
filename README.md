@@ -68,22 +68,22 @@
 <br />
 <div align="center">
   <p align="center">
-<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
-<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
-<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+<img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/> -->
+<img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
 </p>
 <p align="center">
-<img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/> -->
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/> -->
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/> -->
+<img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/> -->
 </p>
 <p align="center">
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/> -->
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/> -->
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/> -->
-<!-- <img height="80" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/> -->
+<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/> -->
 </p>
 <br />
 </div>
@@ -94,22 +94,22 @@
 <div align="center">
 <br />
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius=20&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius='20'&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
   <p align= "center">
     <img
-    width="90%"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
+    width="80%"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius='20'&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
   </p>
   <br />
     <p align= "center">
 <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius=15text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius='20'text_color=ffffff" 
     alt="Top Languages" 
-    width="90%"
+    width="80%"
   />
     </p>
 </div>
@@ -124,7 +124,7 @@
 <hr />
  <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&border-radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&border-radius='20'&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <hr />
 <hr />
