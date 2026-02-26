@@ -94,20 +94,20 @@
 <div align="center">
 <br />
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border-radius='20'&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=amitchandradas2004&theme=react&border_radius=10&background=220a28&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
   <p align= "center">
     <img
     width="80%"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius='20'&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=amitchandradas2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&text_color=ffffff"
     alt="readme stats"
   />
   </p>
   <br />
     <p align= "center">
 <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border-radius='20'text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amitchandradas2004&layout=compact&theme=vision-friendly-dark&bg_color=220a28&title_color=c56a90&border_radius=10&text_color=ffffff" 
     alt="Top Languages" 
     width="80%"
   />
@@ -118,13 +118,13 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&border-radius=20&area=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchandradas2004&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&border_radius=20&area=false">
 </div>
 <hr />
 <hr />
  <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&border-radius='20'&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&border_radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <hr />
 <hr />
