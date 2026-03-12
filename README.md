@@ -22,11 +22,11 @@
 </div>
 <div align="center">
   
-####  💡 I believe in writing clean code,solving complex problems, <br/>  and contributing to the open-source community.
+####  💡 I believe in writing clean code, solving complex problems, <br/>  and contributing to the open-source community.
 
 ####  🔭 I'm currently working on exciting projects
 
-####  🌱 I'm constantly learning andexploring new technologies 
+####  🌱 I'm constantly learning and exploring new technologies 
 
 ####  💡 I love turning ideas into reality through code
 
@@ -75,7 +75,7 @@
 </p>
 <p align="center">
 <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-<!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/> -->
+<img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
 <!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/> -->
 <!-- <img height="70" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/> -->
 </p>
