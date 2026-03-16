@@ -124,7 +124,7 @@
 <hr />
  <!-- <h2 align="center">🌟 “First solve the problem, then write the code.” — John Johnson 🌟</h2> -->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%Johnson.&quote=“First% solve%the%problem,%then%write%the%code.%”%—%John%Johnson.&theme=dark&border_radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%Johnson.&quote=“First%solve%the%problem,%then%write%the%code.”%—%John%Johnson.&theme=dark&border_radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <hr />
 <hr />
