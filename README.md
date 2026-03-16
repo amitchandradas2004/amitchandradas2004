@@ -127,3 +127,9 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&theme=dark&border_radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <hr />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/amitchandradas2004/amitchandradas2004/output/github-snake-light.svg">
+</picture>
