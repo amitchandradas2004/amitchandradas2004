@@ -122,7 +122,7 @@
 </div>
 <hr />
 <hr />
- <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+ <h2 align="center">🌟 “First solve the problem, then write the code.” — John Johnson 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&border_radius=20&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
