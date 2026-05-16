@@ -64,7 +64,7 @@
   
    <a href="https://x.com/AmitDas950" target="_blank">
   <img
-      src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=todoist&logoColor=black"
       target="_blank"
     />
   </a>
