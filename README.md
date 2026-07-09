@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Amit Chandra Das Banner" width="100%">
+</p>
+
 <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=amitchandradas2004.amitchandradas2004"
@@ -42,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:amitcdas792@gmail.com">
+  <a href="mailto:amitchandradas950@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
     />
