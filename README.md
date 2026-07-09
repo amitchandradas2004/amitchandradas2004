@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Amit Chandra Das Banner" width="100%">
+  <img src="banner.png" alt="Amit Chandra Das Banner" width="100%" style="border-radius: 10%;">
 </p>
 
 <img
