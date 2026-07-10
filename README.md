@@ -379,26 +379,17 @@
 <br/>
 <hr/>
 
-<h2 align="center">💬 Quote of the Day</h2>
-<p align="center"><sub>Refreshes daily</sub></p>
+<h2 align="center">💬 Words I Code By</h2>
 <br />
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=f8fafc&author_color=0f172a&accent_color=c56a90"
-    />
-    <img
-      width="80%"
-      src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
-      alt="Daily coding quote"
-    />
-  </picture>
+
+> 💭 _"First, solve the problem. Then, write the code."_ — John Johnson
+
+> 🧠 _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
+
+> 🚀 _"Simplicity is the soul of efficiency."_ — Austin Freeman
+
 </div>
 
 <hr />
