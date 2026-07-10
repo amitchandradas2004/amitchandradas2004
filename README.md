@@ -140,15 +140,15 @@
       <sub><b>CSS</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Tailwind" /><br/>
+      <img src="https://cdn.simpleicons.org/tailwindcss" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Tailwind" /><br/>
       <sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9uFuOpk6wldSG7xKXJGiJGaUFrRy1sWSj114rhZzYQ&s=10" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="JavaScript" /><br/>
+      <img src="https://cdn.simpleicons.org/javascript" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="JavaScript" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iMohjip8_pfYfYBfYybfl15KovXFSV8qmDJqcMA92Q&s=10" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="React" /><br/>
+      <img src="https://cdn.simpleicons.org/react" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="React" /><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="96">
@@ -156,7 +156,7 @@
       <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="TypeScript" /><br/>
+      <img src=https://cdn.simpleicons.org/typescript" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="TypeScript" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
   </tr>
@@ -172,11 +172,11 @@
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhI7Tk7zQ0Yb_DonMtDy6BEXhVVjEM9wseyhNTnTK8g&s" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Express" /><br/>
+      <img src="https://cdn.simpleicons.org/express" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Express" /><br/>
       <sub><b>Express</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZXqobRYZXzbrVv01DcJ1xeCNMideiIRjyu4_5UF0Fg&s=10" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="MongoDB" /><br/>
+      <img src="https://cdn.simpleicons.org/mongodb" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="MongoDB" /><br/>
       <sub><b>MongoDB</b></sub>
     </td>
   </tr>
@@ -212,7 +212,7 @@
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:6px; border:2px solid #e2e8f0;" alt="GitHub" /><br/>
+      <img src="https://cdn.simpleicons.org/github/2A3439" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:6px; border:2px solid #e2e8f0;" alt="GitHub" /><br/>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="96">
