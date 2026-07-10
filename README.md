@@ -81,12 +81,12 @@
       </a><br/>
       <sub><b>Gmail</b></sub>
     </td>
-    <td align="center" width="96">
-  <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
-  </a><br/>
-  <sub><b>LinkedIn</b></sub>
-</td>
+     <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
+        <img src="https://banner2.cleanpng.com/cb2/tko/tqb/aue9luszr.webp" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
+      </a><br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
     <td align="center" width="96">
       <a href="https://github.com/amitchandradas2004" target="_blank">
         <img src="https://cdn.simpleicons.org/github/000000" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
