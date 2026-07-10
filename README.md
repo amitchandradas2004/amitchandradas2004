@@ -81,9 +81,9 @@
       </a><br/>
       <sub><b>Gmail</b></sub>
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
-        <img src="https://banner2.cleanpng.com/cb2/tko/tqb/aue9luszr.webp" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
+        <img src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:75d8a76e-08d9-4e84-9e10-e87f8d79149d/original/as/brand-inlogo-hero-fg-dsk-v01-2x.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
       </a><br/>
       <sub><b>LinkedIn</b></sub>
     </td>
