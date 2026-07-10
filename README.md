@@ -56,20 +56,50 @@
  <h2 align="center">⚒️ Connect With Me ⚒️</h2>
 <br/>
 <div align="center">
-  <a href="mailto:amitchandradas950@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:amitchandradas950@gmail.com" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="40"
+      height="40"
+      style="border-radius:50%; background-color:#ffffff; padding:8px; border:2px solid #e2e8f0;"
+      alt="Gmail"
+    />
   </a>
   <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="40"
+      height="40"
+      style="border-radius:50%; background-color:#ffffff; padding:8px; border:2px solid #e2e8f0;"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://amitchandradasportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://cdn.simpleicons.org/vercel/000000"
+      width="40"
+      height="40"
+      style="border-radius:50%; background-color:#ffffff; padding:8px; border:2px solid #e2e8f0;"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://x.com/AmitDas950" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img
+      src="https://cdn.simpleicons.org/x/000000"
+      width="40"
+      height="40"
+      style="border-radius:50%; background-color:#ffffff; padding:8px; border:2px solid #e2e8f0;"
+      alt="X (Twitter)"
+    />
   </a>
   <a href="https://leetcode.com/u/amitchandradas2004/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      width="40"
+      height="40"
+      style="border-radius:50%; background-color:#ffffff; padding:8px; border:2px solid #e2e8f0;"
+      alt="LeetCode"
+    />
   </a>
 </div>
 
