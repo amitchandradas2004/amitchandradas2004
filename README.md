@@ -11,7 +11,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=0f172a&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
     />
     <source
       media="(prefers-color-scheme: light)"
