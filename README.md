@@ -82,11 +82,11 @@
       <sub><b>Gmail</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
-        <img src="https://banner2.cleanpng.com/cb2/tko/tqb/aue9luszr.webp" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
-      </a><br/>
-      <sub><b>LinkedIn</b></sub>
-    </td>
+  <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="LinkedIn" />
+  </a><br/>
+  <sub><b>LinkedIn</b></sub>
+</td>
     <td align="center" width="96">
       <a href="https://github.com/amitchandradas2004" target="_blank">
         <img src="https://cdn.simpleicons.org/github/000000" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
@@ -387,15 +387,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&theme=dark&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
+      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&theme=light&border_radius=20&bg_color=f8fafc&author_color=0f172a&accent_color=c56a90"
+      srcset="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=f8fafc&author_color=0f172a&accent_color=c56a90"
     />
     <img
       width="80%"
-      src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&theme=dark&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
+      src="https://readme-daily-quotes.vercel.app/api?author=John%20Johnson.&quote=First%20-%20solve%20the%20problem%20,%20then%20write%20the%20code%20.%20&border_radius=20&bg_color=020617&author_color=ffeb95&accent_color=c56a90"
       alt="Daily coding quote"
     />
   </picture>
