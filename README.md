@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/amitchandradas2004" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/000000](https://www.pngkey.com/png/detail/178-1787134_png-file-svg-github-icon-png.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
       </a><br/>
       <sub><b>GitHub</b></sub>
     </td>
@@ -101,13 +101,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://amitchandradasportfolio.vercel.app" target="_blank">
-        <img src="https://cdn.simpleicons.org/vercel/000000" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Portfolio" />
+        <img src="https://cdn-icons-png.flaticon.com/512/998/998330.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Portfolio" />
       </a><br/>
       <sub><b>Portfolio</b></sub>
     </td>
     <td align="center" width="96">
       <a href="https://x.com/AmitDas950" target="_blank">
-        <img src="https://cdn.simpleicons.org/x/000000" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="X (Twitter)" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="X (Twitter)" />
       </a><br/>
       <sub><b>Twitter</b></sub>
     </td>
