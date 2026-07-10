@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/amitchandradas2004" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/000000" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
+        <img src="https://cdn.simpleicons.org/github/000000](https://www.pngkey.com/png/detail/178-1787134_png-file-svg-github-icon-png.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
       </a><br/>
       <sub><b>GitHub</b></sub>
     </td>
