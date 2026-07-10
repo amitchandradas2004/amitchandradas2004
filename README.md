@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/amitchandradas2004" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/2A3439" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
+        <img src="https://cdn.simpleicons.org/github/2A3439" width="50" height="50" style="border-radius:20%; padding:4px; border:2px solid #e2e8f0;" alt="GitHub" />
       </a><br/>
       <sub><b>GitHub</b></sub>
     </td>
@@ -156,7 +156,7 @@
       <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src=https://cdn.simpleicons.org/typescript" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="TypeScript" /><br/>
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="TypeScript" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
   </tr>
@@ -212,7 +212,7 @@
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/2A3439" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:6px; border:2px solid #e2e8f0;" alt="GitHub" /><br/>
+      <img src="https://cdn.simpleicons.org/github/2A3439" width="50" height="50" style="border-radius:20%; padding:6px; border:2px solid #e2e8f0;" alt="GitHub" /><br/>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="96">
