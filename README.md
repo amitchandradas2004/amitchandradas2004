@@ -111,6 +111,12 @@
       </a><br/>
       <sub><b>Twitter</b></sub>
     </td>
+    <td align="center" width="96">
+  <a href="https://wa.me/8801326107950" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="WhatsApp" />
+  </a><br/>
+  <sub><b>WhatsApp</b></sub>
+</td>
   </tr>
 </table>
 
