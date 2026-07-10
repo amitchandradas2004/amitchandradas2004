@@ -11,11 +11,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=F8FAFC &center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=f8fafc&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=0F172A &center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=0f172a&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
     />
     <img
       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
