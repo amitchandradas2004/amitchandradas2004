@@ -44,36 +44,24 @@
 
  <h2 align="center">⚒️ Connect With Me ⚒️</h2>
 <br/>
-
 <div align="center">
   <a href="mailto:amitchandradas950@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-    />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/amitchandradas2004" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://amitchandradasportfolio.vercel.app/" target="_blank">
-  <img
-      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
-   <a href="https://x.com/AmitDas950" target="_blank">
-  <img
-      src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=todoist&logoColor=black"
-      target="_blank"
-    />
+  <a href="https://x.com/AmitDas950" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  
+  <a href="https://leetcode.com/u/amitchandradas2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
+
 <hr />
 <hr />
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
