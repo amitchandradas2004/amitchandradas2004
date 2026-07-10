@@ -8,9 +8,20 @@
 />
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&text_color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=220a28&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello+World!+👋;+I'm+Amit+Chandra+Das!;"
+      alt="Typing SVG"
+    />
+  </picture>
 </h1>
 
 # <h2 align="center">A Full-Stack Web Developer from Bangladesh </h2>
