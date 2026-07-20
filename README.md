@@ -227,6 +227,10 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUblKMfsEZlkM0KNruY8u9M2Z1WXCVMZimS-Ys8eo09g&s=10" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:6px; border:2px solid #e2e8f0;" alt="Figma" /><br/>
       <sub><b>Figma</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/zod/3E67B1" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:6px; border:2px solid #e2e8f0;" alt="Zod" /><br/>
+      <sub><b>Zod</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -242,32 +246,40 @@
 
 <table align="center">
   <tr>
+  <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 NextMatch-A-Property-Room-Rental-Discovery-Platform.</h3>
+      <p align="center"><sub>NextMatch — a full-stack property rental discovery platform where users browse, filter, and list rentals with rich details pages. Powered by one AI agent.</sub></p>
+     <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform." target="_blank"><b>Code (Client Side)</b></a> •
+        <a href="https://next-match-a-property-room-rental-d.vercel.app" target="_blank"><b>Live Demo</b></a>
+      </p>
+    </td>
+    <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">🔥 StartUp Forge</h3>
       <p align="center"><sub>A full-stack startup idea generator and validator that helps users brainstorm, refine, and evaluate business concepts.</sub></p>
-      <p align="center">
+    <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p> 
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
+      </p>
       <p align="center">
         <a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ClientSide" target="_blank"><b>Code (Client Side)</b></a> •
         <a href="https://startupforge-client-swart.vercel.app" target="_blank"><b>Live Demo</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-  <h3 align="center">📚 BookVerse</h3>
-  <p align="center"><sub>A Next.js book-borrowing platform where users can browse and manage books through a clean, intuitive interface, powered by static data.</sub></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  </p>
-  <p align="center">
-    <a href="https://github.com/amitchandradas2004/BookVerse-Online-Book-Borrowing-Service" target="_blank"><b>Code</b></a> •
-    <a href="https://book-verse-online-book-borrowing-se.vercel.app" target="_blank"><b>Live Demo</b></a>
-  </p>
-</td>
   </tr>
 </table>
 
