@@ -100,7 +100,7 @@
       <sub><b>LeetCode</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://amitchandradasportfolio.vercel.app" target="_blank">
+      <a href="https://amit-chandra-das-portfolio.vercel.app" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/998/998330.png" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="Portfolio" />
       </a><br/>
       <sub><b>Portfolio</b></sub>
