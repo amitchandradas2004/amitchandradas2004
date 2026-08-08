@@ -246,7 +246,37 @@
 
 <table align="center">
   <tr>
-  <!-- Project 1 -->
+     <!-- Project 1 -->
+    <td width="50%" valign="top">
+  <h3 align="center">🎟️ EventFlow — Full-Stack Event Ticket Booking & Management Platform</h3>
+  <p align="center">
+    <sub>
+      EventFlow — a full-stack event management platform connecting organizers and attendees with event creation, ticket booking, Stripe payments, role-based dashboards, and Gemini AI assistance.
+    </sub>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/amitchandradas2004/EventFlow-Event-Ticket-Booking-Management-Platform" target="_blank">
+      <b>Code (Client)</b>
+    </a>
+    •
+    <a href="https://eventflow-tau-flame.vercel.app" target="_blank">
+      <b>Live Demo</b>
+    </a>
+  </p>
+</td>
+  <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">🔥 NextMatch-A-Property-Room-Rental-Discovery-Platform.</h3>
       <p align="center"><sub>NextMatch — a full-stack property rental discovery platform where users browse, filter, and list rentals with rich details pages. Powered by one AI agent.</sub></p>
