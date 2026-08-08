@@ -241,76 +241,198 @@
 <hr />
 
 <h2 align="center">📌 Featured Projects</h2>
-<p align="center"><sub>A few things I've built recently</sub></p>
+
+<p align="center">
+  <sub>A few things I've built recently</sub>
+</p>
+
 <br />
 
-<table align="center">
-  <tr>
-     <!-- Project 1 -->
-    <td width="50%" valign="top">
-  <h3 align="center">🎟️ EventFlow — Full-Stack Event Ticket Booking & Management Platform</h3>
-  <p align="center">
-    <sub>
-      EventFlow — a full-stack event management platform connecting organizers and attendees with event creation, ticket booking, Stripe payments, role-based dashboards, and Gemini AI assistance.
-    </sub>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-  </p>
+<div align="center" style="width:100%; overflow-x:auto;">
 
-  <p align="center">
-    <a href="https://github.com/amitchandradas2004/EventFlow-Event-Ticket-Booking-Management-Platform" target="_blank">
-      <b>Code (Client)</b>
-    </a>
-    •
-    <a href="https://eventflow-tau-flame.vercel.app" target="_blank">
-      <b>Live Demo</b>
-    </a>
-  </p>
+<table 
+align="center" 
+width="100%" 
+border="1" 
+cellspacing="0" 
+cellpadding="15"
+style="table-layout:fixed; word-wrap:break-word;"
+>
+
+<tr>
+
+<!-- ================= EVENTFLOW ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🎟️+EventFlow;Event+Ticket+Management+Platform" />
+</h3>
+
+<p align="center">
+<sub>
+EventFlow is a full-stack SaaS-style event management platform connecting organizers and attendees with event creation, ticket booking, Stripe payments, role-based dashboards, and Gemini AI chatbot assistance.
+</sub>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=next,nodejs,express,mongodb,nodejs" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amitchandradas2004/EventFlow-Event-Ticket-Booking-Management-Platform">
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://eventflow-tau-flame.vercel.app">
+
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
 </td>
-  <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 NextMatch-A-Property-Room-Rental-Discovery-Platform.</h3>
-      <p align="center"><sub>NextMatch — a full-stack property rental discovery platform where users browse, filter, and list rentals with rich details pages. Powered by one AI agent.</sub></p>
-     <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-        <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform." target="_blank"><b>Code (Client Side)</b></a> •
-        <a href="https://next-match-a-property-room-rental-d.vercel.app" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 StartUp Forge</h3>
-      <p align="center"><sub>A full-stack startup idea generator and validator that helps users brainstorm, refine, and evaluate business concepts.</sub></p>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Better--Auth-000000?style=flat-square&logo=lock&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ClientSide" target="_blank"><b>Code (Client Side)</b></a> •
-        <a href="https://startupforge-client-swart.vercel.app" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
+
+
+<!-- ================= NEXTMATCH ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=🔥+NextMatch;Property+Rental+Platform" />
+</h3>
+
+<p align="center">
+<sub>
+NextMatch is a full-stack property rental discovery platform where users browse, filter, and list properties with detailed pages and AI-powered assistance.
+</sub>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=next,typescript,nodejs,mongodb" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform">
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://next-match-a-property-room-rental-d.vercel.app">
+
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ================= STARTUP FORGE ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=🚀+StartUp+Forge;Startup+Idea+Platform" />
+
+</h3>
+
+<p align="center">
+<sub>
+A full-stack platform that helps users generate, validate, and refine startup ideas with modern authentication, dashboards, and scalable architecture.
+</sub>
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=next,typescript,react,nodejs,mongodb" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ClientSide">
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://startupforge-client-swart.vercel.app">
+
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+
+<!-- ================= FUTURE PROJECT ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+
+🚧 More Projects Coming Soon
+
+</h3>
+
+<p align="center">
+
+<sub>
+Continuously learning, experimenting, and building scalable applications with modern technologies.
+</sub>
+
+</p>
+
+<p align="center">
+
+<!-- 
+<img src="https://skillicons.dev/icons?i=github,git,vscode" />
+-->
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
+
+</div>
 
 <br/>
 <hr />
