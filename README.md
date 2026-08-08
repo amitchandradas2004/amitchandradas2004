@@ -303,7 +303,6 @@ EventFlow is a full-stack SaaS-style event management platform connecting organi
 
 </td>
 
-
 <!-- ================= NEXTMATCH ================= -->
 
 <td width="50%" valign="top">
@@ -328,7 +327,7 @@ NextMatch is a full-stack property rental discovery platform where users browse,
 
 <p align="center">
 
-<a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform">
+<a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform.">
 
 <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
 
@@ -395,7 +394,6 @@ A full-stack platform that helps users generate, validate, and refine startup id
 
 </td>
 
-
 <!-- ================= FUTURE PROJECT ================= -->
 
 <td width="50%" valign="top">
@@ -420,7 +418,7 @@ Continuously learning, experimenting, and building scalable applications with mo
 
 <p align="center">
 
-<!-- 
+<!--
 <img src="https://skillicons.dev/icons?i=github,git,vscode" />
 -->
 
