@@ -106,7 +106,7 @@
       <sub><b>Portfolio</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://x.com/AmitDas950" target="_blank">
+      <a href="https://x.com/amitchandra2004" target="_blank">
         <img src="https://cdn.simpleicons.org/x/2A3439" width="50" height="50" style="border-radius:20%; background-color:#ffffff; padding:4px; border:2px solid #e2e8f0;" alt="X (Twitter)" />
       </a><br/>
       <sub><b>Twitter</b></sub>
