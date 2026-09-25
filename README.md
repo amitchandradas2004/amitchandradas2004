@@ -379,8 +379,16 @@ EventFlow is a full-stack SaaS-style event management platform connecting organi
 </sub>
 </p>
 
+<p align="left">
+<sub>
+
+* **Problem Solved:** Simplifies event management, ticket booking, and payment processing by connecting organizers and attendees on a single automated digital platform.
+* **Key Features:** Role-based dashboards for Admin & Organizers; organization & event lifecycle management; dynamic ticket pricing with Stripe payments; attendee booking history; and Gemini AI chatbot assistance.
+</sub>
+</p>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=next,nodejs,express,mongodb,nodejs" />
+<img src="https://skillicons.dev/icons?i=next,js,react,nodejs,express,mongodb,tailwind" />
 </p>
 
 <p align="center">
