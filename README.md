@@ -284,21 +284,11 @@ EventFlow is a full-stack SaaS-style event management platform connecting organi
 </p>
 
 <p align="center">
-
-<a href="https://github.com/amitchandradas2004/EventFlow-Event-Ticket-Booking-Management-Platform">
-
-<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://eventflow-tau-flame.vercel.app">
-
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
-
-</a>
-
+  <a href="https://eventflow-tau-flame.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/EventFlow-Event-Ticket-Booking-Management-Platform" target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/EventFlow-Server" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
@@ -326,21 +316,11 @@ NextMatch is a full-stack property rental discovery platform where users browse,
 </p>
 
 <p align="center">
-
-<a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform.">
-
-<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://next-match-a-property-room-rental-d.vercel.app">
-
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
-
-</a>
-
+  <a href="https://next-match-a-property-room-rental-d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/NextMatch-A-Property-Room-Rental-Discovery-Platform." target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/Next_Match_Server" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
@@ -375,21 +355,11 @@ A full-stack platform that helps users generate, validate, and refine startup id
 </p>
 
 <p align="center">
-
-<a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ClientSide">
-
-<img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://startupforge-client-swart.vercel.app">
-
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
-
-</a>
-
+  <a href="https://startupforge-client-swart.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ClientSide" target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/amitchandradas2004/StartupForge-Startup-Team-Builder-Platform-ServerSide" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
@@ -415,7 +385,7 @@ EduNexus is a unified school management platform designed to simplify academic a
 <p align="left">
 <sub>
 
-**Team:** Developed by **ByteCode-Breakers** (Team of 6)
+**Team:** Developed by **ByteCode-Breakers** (Team of 6 Members)
 
 * **Problem Solved:** Addresses the challenges of manual paperwork, disconnected school operations, and inefficient management of academic information by providing a centralized digital platform.
 * **Key Features:** Role-based dashboards for Admin, Teacher, and Student; attendance management; examination and result management; student profiles; notices and announcements; and academic administration.
@@ -428,23 +398,11 @@ EduNexus is a unified school management platform designed to simplify academic a
 </p>
 
 <p align="center">
-
-<a href="https://school-management-system-psi-ten.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/JubairAhammedJubu/school-management-system" target="_blank">
-<img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/JubairAhammedJubu/EduNexus-Server" target="_blank">
-<img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://school-management-system-psi-ten.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/JubairAhammedJubu/school-management-system" target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/JubairAhammedJubu/EduNexus-Server" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
