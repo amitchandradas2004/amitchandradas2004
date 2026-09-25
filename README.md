@@ -394,7 +394,7 @@ A full-stack platform that helps users generate, validate, and refine startup id
 
 </td>
 
-<!-- ================= FUTURE PROJECT ================= -->
+<!-- ================= EDUNEXUS — SCHOOL MANAGEMENT SYSTEM ================= -->
 
 <td width="50%" valign="top">
 
@@ -403,24 +403,47 @@ A full-stack platform that helps users generate, validate, and refine startup id
 </p>
 
 <h3 align="center">
-
-🚧 More Projects Coming Soon
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=🎓+EduNexus;School+Management+System" />
 </h3>
 
 <p align="center">
-
 <sub>
-Continuously learning, experimenting, and building scalable applications with modern technologies.
+EduNexus is a unified school management platform designed to simplify academic and administrative activities by connecting administrators, teachers, and students in one centralized system.
 </sub>
+</p>
 
+<p align="left">
+<sub>
+
+**Team:** Developed by **ByteCode-Breakers** (Team of 6)
+
+* **Problem Solved:** Addresses the challenges of manual paperwork, disconnected school operations, and inefficient management of academic information by providing a centralized digital platform.
+* **Key Features:** Role-based dashboards for Admin, Teacher, and Student; attendance management; examination and result management; student profiles; notices and announcements; and academic administration.
+* **My Contribution:** Contributed to the Teacher Dashboard, including attendance, student management, notices, results-related features, profile management, and authentication and security functionality.
+</sub>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=next,typescript,tailwind,express,postgres,prisma" />
 </p>
 
 <p align="center">
 
-<!--
-<img src="https://skillicons.dev/icons?i=github,git,vscode" />
--->
+<a href="https://school-management-system-psi-ten.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/JubairAhammedJubu/school-management-system" target="_blank">
+<img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/JubairAhammedJubu/EduNexus-Server" target="_blank">
+<img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
