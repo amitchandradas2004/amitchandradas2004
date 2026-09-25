@@ -240,10 +240,110 @@
 <hr />
 <hr />
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">👥 Team Projects</h2>
 
 <p align="center">
-  <sub>A few things I've built recently</sub>
+  <sub>Collaborative applications built with development teams</sub>
+</p>
+
+<br />
+
+<div align="center" style="width:100%; overflow-x:auto;">
+
+<table 
+align="center" 
+width="100%" 
+border="1" 
+cellspacing="0" 
+cellpadding="15"
+style="table-layout:fixed; word-wrap:break-word;"
+>
+
+<tr>
+
+<!-- ================= EDUNEXUS — SCHOOL MANAGEMENT SYSTEM ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=🎓+EduNexus;School+Management+System" />
+</h3>
+
+<p align="center">
+<sub>
+EduNexus is a unified school management platform designed to simplify academic and administrative activities by connecting administrators, teachers, and students in one centralized system.
+</sub>
+</p>
+
+<p align="left">
+<sub>
+
+**Team:** Developed by **ByteCode-Breakers** (Team of 6 Members)
+
+* **Problem Solved:** Addresses the challenges of manual paperwork, disconnected school operations, and inefficient management of academic information by providing a centralized digital platform.
+* **Key Features:** Role-based dashboards for Admin, Teacher, and Student; attendance management; examination and result management; student profiles; notices and announcements; and academic administration.
+* **My Contribution:** Contributed to the Teacher Dashboard, including attendance, student management, notices, results-related features, profile management, and authentication and security functionality.
+</sub>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=next,typescript,tailwind,express,postgres,prisma" />
+</p>
+
+<p align="center">
+  <a href="https://school-management-system-psi-ten.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/JubairAhammedJubu/school-management-system" target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/JubairAhammedJubu/EduNexus-Server" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/13DvCfCrQMh0xGxlxkJc-doLm6Fj6sku7vjfip9MywSk/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Individual_Doc-0F766E?style=flat&logo=googledocs&logoColor=white"/></a>
+</p>
+
+</td>
+
+<!-- ================= MORE TEAM PROJECTS ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h3 align="center">
+
+🚧 More Team Projects Coming Soon
+
+</h3>
+
+<p align="center">
+
+<sub>
+Collaborating on new team initiatives and building high-impact full-stack applications together.
+</sub>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+<hr />
+<hr />
+
+<h2 align="center">📌 Personal Projects</h2>
+
+<p align="center">
+  <sub>Full-stack applications built independently</sub>
 </p>
 
 <br />
@@ -364,7 +464,7 @@ A full-stack platform that helps users generate, validate, and refine startup id
 
 </td>
 
-<!-- ================= EDUNEXUS — SCHOOL MANAGEMENT SYSTEM ================= -->
+<!-- ================= MORE PERSONAL PROJECTS ================= -->
 
 <td width="50%" valign="top">
 
@@ -373,36 +473,17 @@ A full-stack platform that helps users generate, validate, and refine startup id
 </p>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=🎓+EduNexus;School+Management+System" />
+
+🚧 More Projects Coming Soon
+
 </h3>
 
 <p align="center">
+
 <sub>
-EduNexus is a unified school management platform designed to simplify academic and administrative activities by connecting administrators, teachers, and students in one centralized system.
+Continuously learning, experimenting, and building scalable applications with modern technologies.
 </sub>
-</p>
 
-<p align="left">
-<sub>
-
-**Team:** Developed by **ByteCode-Breakers** (Team of 6 Members)
-
-* **Problem Solved:** Addresses the challenges of manual paperwork, disconnected school operations, and inefficient management of academic information by providing a centralized digital platform.
-* **Key Features:** Role-based dashboards for Admin, Teacher, and Student; attendance management; examination and result management; student profiles; notices and announcements; and academic administration.
-* **My Contribution:** Contributed to the Teacher Dashboard, including attendance, student management, notices, results-related features, profile management, and authentication and security functionality.
-</sub>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=next,typescript,tailwind,express,postgres,prisma" />
-</p>
-
-<p align="center">
-  <a href="https://school-management-system-psi-ten.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/JubairAhammedJubu/school-management-system" target="_blank"><img src="https://img.shields.io/badge/Client_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/JubairAhammedJubu/EduNexus-Server" target="_blank"><img src="https://img.shields.io/badge/Server_Repo-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
