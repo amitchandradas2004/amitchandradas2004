@@ -419,6 +419,14 @@ NextMatch is a full-stack property rental discovery platform where users browse,
 </sub>
 </p>
 
+<p align="left">
+<sub>
+
+* **Problem Solved:** Streamlines property and room rental searches by connecting tenants and landlords with advanced filtering, detailed property listings, and automated search assistance.
+* **Key Features:** Property & room listing management; location & amenity-based search; detailed property pages; user booking requests; and AI-powered assistant for property discovery.
+</sub>
+</p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=next,typescript,nodejs,mongodb" />
 </p>
